@@ -1,4 +1,4 @@
 # stac-demo
 My first Git repository.
 <br>
-Author - Sarthak Singh Chauhan
+Author - Sarthak  Singh  Chauhan
